@@ -1,0 +1,14 @@
+[
+    {
+        "payload": {"username": "zhangsan", "password": "123456"},
+        "expected_name": "zhangsan"
+    },
+    {
+        "payload": {"username": "lisi", "password": "abc123"},
+        "expected_name": "lisi"
+    },
+    {
+        "payload": {"username": "wangwu", "password": "888888"},
+        "expected_name": "wangwu"
+    }
+]
